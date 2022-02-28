@@ -1,0 +1,409 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Two unfortunate lovers. Or, A true relation of the lamentable end of John True and Susan Mease. Their lives this ditty doth relate. And how they dy'd unfortunate. The tune is, The brides burial.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1663-1674</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95485</idno>
+            <idno type="STC">Wing T3543</idno>
+            <idno type="STC">ESTC R233991</idno>
+            <idno type="EEBO-CITATION">45578483</idno>
+            <idno type="OCLC">ocm 45578483</idno>
+            <idno type="VID">172395</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95485)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172395)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2628:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Two unfortunate lovers. Or, A true relation of the lamentable end of John True and Susan Mease. Their lives this ditty doth relate. And how they dy'd unfortunate. The tune is, The brides burial.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed for F. Coles, T. Vere, and J. Wright.,</publisher>
+                  <pubPlace>[London?] :</pubPlace>
+                  <date>[between 1663-1674]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Date of publication suggested by Wing.</note>
+                  <note>Illustrated with 1 woodcut.</note>
+                  <note>Reproduction of original in the Glasgow University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>True, John.</term>
+               <term>Mease, Susan.</term>
+               <term>Ballads, English --  17th century.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-06</date>
+            <label>Aptara</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb facs="tcp:172395:1"/>
+            <head>The Two Unfortunate LOVERS. Or, A true Relation of the lamentable end of John True and Suſan Meaſe.</head>
+            <argument>
+               <l>And how they dy'd unfortunate.</l>
+               <l>Their lives this Ditty doth relate.</l>
+            </argument>
+            <opener>The tune is, the Brides Burial.</opener>
+            <lg>
+               <l>
+                  <hi>A</hi>Ttend you Lovers and give ear,</l>
+               <l>unto my mournful Song,</l>
+               <l>Of two that loved faithfully,</l>
+               <l>yet did each other wrong.</l>
+            </lg>
+            <lg>
+               <l>At <hi>Coventry</hi> in <hi>Warwickſhire</hi>
+               </l>
+               <l>this young man he did dwell,</l>
+               <l>His Name <hi>John True</hi> a ſhooemaker</l>
+               <l>and liv'd of it full well.</l>
+            </lg>
+            <lg>
+               <l>At <hi>Corly</hi> did this Maiden dwell,</l>
+               <l>three miles from <hi>Coventry,</hi>
+               </l>
+               <l>Yet for the love he bore to her,</l>
+               <l>he would her often ſee.</l>
+            </lg>
+            <lg>
+               <l>And coming to her on a day,</l>
+               <l>he told to her his mind,</l>
+               <l>
+                  <hi>Suſan</hi> (quoth he) I love thée dear,</l>
+               <l>be not to me unkind.</l>
+            </lg>
+            <lg>
+               <l>If thou canſt love and fancy me,</l>
+               <l>in heart and eke in mind,</l>
+               <l>I will prove loving unto thee,</l>
+               <l>be not to me unkind.</l>
+            </lg>
+            <lg>
+               <l>Thy chearful looks rejoyce my heart,</l>
+               <l>and merry make my mind,</l>
+               <l>Sweet <hi>Suſan</hi> then love me again,</l>
+               <l>be not to me unkind.</l>
+            </lg>
+            <lg>
+               <l>Good <hi>John</hi> I thank you for your love,</l>
+               <l>and wiſh you at home to tarry,</l>
+               <l>I am too young for you to wed,</l>
+               <l>and have no mind to marry.</l>
+            </lg>
+            <lg>
+               <l>Where you do dwell are Maidens ſtore</l>
+               <l>of beauty fair and frée,</l>
+               <l>Set not thy love upon me then,</l>
+               <l>for I cannot love thee.</l>
+            </lg>
+            <lg>
+               <l>This anſwer ſtruck him to the heart,</l>
+               <l>as cold as any ſtone,</l>
+               <l>And homewards ſtrait he did return</l>
+               <l>with many a ſigh and groan.</l>
+            </lg>
+            <lg>
+               <l>Wiſhing that he had ne'r béen born,</l>
+               <l>or in his cradle dy'd,</l>
+               <l>Vnhappy man to love ſo true,</l>
+               <l>and yet to be deny'd.</l>
+            </lg>
+            <lg>
+               <l>Quoth he, I will to her again,</l>
+               <l>and hear what ſhe doth ſay,</l>
+               <l>It may be ſhe may be more kind,</l>
+               <l>though firſt ſhe ſaid me nay.</l>
+            </lg>
+            <lg>
+               <l>Then coming to the Town again,</l>
+               <l>he ſent for her ſtrait way,</l>
+               <l>Deſiring her to ſpeak with him,</l>
+               <l>but ſtill ſhe ſaid him nay.</l>
+            </lg>
+            <lg>
+               <l>Then did he ſigh lament and grieve,</l>
+               <l>and knew not what to ſay,</l>
+               <l>Then did he take his pen in hand,</l>
+               <l>and writ theſe words ſtrait way.</l>
+            </lg>
+            <lg>
+               <l>My hearts delight and only joy,</l>
+               <l>kill me not with diſdain,</l>
+               <l>Vouchſafe that I may ſpeak with thée</l>
+               <l>to rid me out of pain.</l>
+            </lg>
+            <lg>
+               <l>Reſolve me ſwéeteſt I thée pray.</l>
+               <l>why is thy hatred ſuch?</l>
+               <l>I know no cauſe unleſs it be,</l>
+               <l>for loving thée too much.</l>
+            </lg>
+            <lg>
+               <l>As is my name, ſo is my love,</l>
+               <l>ſweet <hi>Suſan</hi> unto thée,</l>
+               <l>
+                  <hi>True</hi> is my name, <hi>True</hi> is my love,</l>
+               <l>and ther ſo ſhall be.</l>
+            </lg>
+            <lg>
+               <l>My love is Loyal, Iuſt, and good,</l>
+               <l>kill me not with diſdain,</l>
+               <l>Rather do me the courteſie</l>
+               <l>to love for love again.</l>
+            </lg>
+            <lg>
+               <l>When ſhe had read and underſtood</l>
+               <l>his mind and his intent,</l>
+               <l>She then began to like and love,</l>
+               <l>and yields him hearts content.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>John</hi> I am thine, if thou béeſt mine,</l>
+               <l>for ever and for aye:</l>
+               <l>It was to try thy conſtancy</l>
+               <l>that I did ſay thee nay.</l>
+            </lg>
+            <lg>
+               <l>But here's my hand, my heart &amp; love,</l>
+               <l>I'le ne'r thée more deny,</l>
+               <l>My love is conſtant firm and true,</l>
+               <l>and ſhall be till I Dye.</l>
+            </lg>
+            <lg>
+               <l>Then they imbrac'd each others love,</l>
+               <l>and joyn'd in heart and voice,</l>
+               <l>That ſhe of him, and he of her</l>
+               <l>had made ſo ſwéet a choice.</l>
+            </lg>
+            <lg>
+               <l>BVt fortune that doth often frown,</l>
+               <l>where ſhe before did ſmile,</l>
+               <l>The mans delight, the Maidens joy,</l>
+               <l>full ſoon ſhe did beguile.</l>
+            </lg>
+            <lg>
+               <l>When ſhe was ſetled in her love,</l>
+               <l>then he would change his mind,</l>
+               <l>And for to try her conſtancy,</l>
+               <l>would be to her unkind.</l>
+            </lg>
+            <lg>
+               <l>And thus reſolved in his mind,</l>
+               <l>he'd come to her no more,</l>
+               <l>But went and wooed another Maid,</l>
+               <l>which griev'd her heart full ſore.</l>
+            </lg>
+            <lg>
+               <l>Quoth he, ſhe proved unto me,</l>
+               <l>hard-hearted and unkind:</l>
+               <l>But now her true love I have won,</l>
+               <l>I'le bear the ſelf ſame mind.</l>
+            </lg>
+            <lg>
+               <l>When ſhe perceiv'd his love to her,</l>
+               <l>not as 'twas wont to be,</l>
+               <l>She did lament, ſigh, wéep and grieve,</l>
+               <l>and then theſe words ſaid ſhe.</l>
+            </lg>
+            <lg>
+               <l>Falſe-hearted wretch adieu, quoth ſhe,</l>
+               <l>diſloyal and unkind,</l>
+               <l>And if I dye for love of thée,</l>
+               <l>thou ſhalt not know my mind.</l>
+            </lg>
+            <lg>
+               <l>Woe to the time I did beleive,</l>
+               <l>that flattering tongue of thine,</l>
+               <l>Would God that I had never ſéen</l>
+               <l>the tears of thy falſe eyn.</l>
+            </lg>
+            <lg>
+               <l>Hard hap had I to ſet my love,</l>
+               <l>on one that mocked me,</l>
+               <l>Sure all the Country did not yeild</l>
+               <l>a man ſo falſe as he.</l>
+            </lg>
+            <lg>
+               <l>Thus was ſhe brought to mean eſtate</l>
+               <l>all comfort from her fled,</l>
+               <l>She did deſire to ſpeak with him.</l>
+               <l>before that ſhe was dead.</l>
+            </lg>
+            <lg>
+               <l>Her friends did ſéek to chear her up,</l>
+               <l>and to make glad her mind,</l>
+               <l>But ſhe was kil'd with loving him,</l>
+               <l>who prov'd to her unkind.</l>
+            </lg>
+            <lg>
+               <l>Falſe-hearted man, may never Maid,</l>
+               <l>love thée as I have done,</l>
+               <l>But may my death remembred be,</l>
+               <l>to time that is to come.</l>
+            </lg>
+            <lg>
+               <l>But may all Maids example take,</l>
+               <l>by this my mournful death,</l>
+               <l>And now O Lord receive my ſoul,</l>
+               <l>to thée I yield my breath.</l>
+            </lg>
+            <lg>
+               <l>Thus Dy'd the pattern of true love,</l>
+               <l>thus dy'd a vertuous Maid,</l>
+               <l>Thus dy'd as good a harmleſs Laſs,</l>
+               <l>as ever love betray'd.</l>
+            </lg>
+            <lg>
+               <l>Six Maids in white as, cuſtom is,</l>
+               <l>did bear her to the grave,</l>
+               <l>Her Parents grieve lament and more.</l>
+               <l>no child at all they have.</l>
+            </lg>
+            <lg>
+               <l>When as her lover underſtood,</l>
+               <l>for truth that ſhe was Dead,</l>
+               <l>He rag'd and ready was to tear</l>
+               <l>the Hair from off his head.</l>
+            </lg>
+            <lg>
+               <l>But when he came into the place,</l>
+               <l>where his true lover lay,</l>
+               <l>He ſtrait way ran unto the grave,</l>
+               <l>and there theſe words did ſay.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Suſan</hi> (quoth he) i'le Kiſs thy grave,</l>
+               <l>upon my bended Knée,</l>
+               <l>Whereby i'le ſhew to all the world,</l>
+               <l>how dear I loved thee.</l>
+            </lg>
+            <lg>
+               <l>And as he lay upon the ground,</l>
+               <l>he heard a voice to ſay,</l>
+               <l>
+                  <hi>John True</hi> if e're thou loved'ſt me dear</l>
+               <l>make haſt and come away.</l>
+            </lg>
+            <lg>
+               <l>Then ſtarted he up from the grave,</l>
+               <l>and ſtood like one ſtruck Dumb,</l>
+               <l>And when he had regain'd his ſpeech</l>
+               <l>he ſaid, I come, I come.</l>
+            </lg>
+            <lg>
+               <l>And thus like one out of his wits,</l>
+               <l>he rag'd in pitious ſort,</l>
+               <l>That all the Neighbours preſently</l>
+               <l>were griev'd at his report.</l>
+            </lg>
+            <lg>
+               <l>And thus with ſorrow and grief of heart,</l>
+               <l>he lay a whole fortnight,</l>
+               <l>And when he had confeſt his fault</l>
+               <l>he yielded up his ſpirit.</l>
+            </lg>
+            <lg>
+               <l>According to his hearts Deſire,</l>
+               <l>and as he did requeſt,</l>
+               <l>They Dig'd his grave, &amp; laid him down</l>
+               <l>by her whom he lov'd beſt.</l>
+            </lg>
+            <lg>
+               <l>you young men all that have true loves</l>
+               <l>be ſure unto your friend,</l>
+               <l>And if you love, be ſure your love,</l>
+               <l>be true unto the end.</l>
+            </lg>
+            <lg>
+               <l>And thus I end my ſtory true,</l>
+               <l>ſo full of grief and woe,</l>
+               <l>May never any ſeek again,</l>
+               <l>to wrong each other ſo.</l>
+            </lg>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed for F. Coles, T. <gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ere, and J. Wright.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
